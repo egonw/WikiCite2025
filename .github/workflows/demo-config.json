@@ -1,6 +1,6 @@
 {
-    "servers": ["mastodon.social", "fedi.buzz"],
-    "tags": ["foss", "cats", "dogs", "fediwall"],
-    "accounts": ["defnull@chaos.social"],
+    "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
+    "tags": ["iccs2022", "iccs2025", "iccs2028"],
+    "accounts": ["@intconfchemstr@social.edu.nl"],
     "theme": "dark"
 }
