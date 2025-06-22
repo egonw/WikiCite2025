@@ -1,6 +1,6 @@
-# ICCS2025 Fediwall
+# MetSoc2025 Fediwall
 
-This is a fork for the ICCS2025. Below is the original README:
+This is a fork for the MetSoc2025. Below is the original README:
 
 Fediwall is a *media wall* application made for [Mastodon](https://joinmastodon.org/). Follow hashtags or accounts and show the most recent posts in a self-updating, screen filling and visually pleasing masonry grid layout. Put it on a large screen and showcase community feedback or social media reactions while hosting your next big event, or use it to look at cat pictures all day. Your choice.
 
