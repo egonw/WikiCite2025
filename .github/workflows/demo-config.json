@@ -2,5 +2,8 @@
     "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
     "tags": ["metsoc2025", "MetSoc2025"],
     "accounts": [],
-    "theme": "dark"
+    "theme": "dark",
+    "hideSensitive": false,
+    "hideBots": false,
+    "hideReplies": false
 }
