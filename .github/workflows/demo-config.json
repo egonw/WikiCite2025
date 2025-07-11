@@ -2,7 +2,7 @@
     "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
     "tags": [],
     "accounts": [ "oscu@akademienl.social", "oscgroningen@mastodon.social", "OSCMainz@fediscience.org", "oscmaastricht@social.edu.nl",
-      "OpenSciTwente@akademienl.social", "OpenSciNigeria@mastodon.social", 'OSCSheffield@fosstodon.org", "opensciencekiel@fediscience.org"
+      "OpenSciTwente@akademienl.social", "OpenSciNigeria@mastodon.social", "OSCSheffield@fosstodon.org", "opensciencekiel@fediscience.org"
      ],
     "theme": "dark",
     "hideSensitive": false,
