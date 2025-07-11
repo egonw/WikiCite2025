@@ -1,7 +1,7 @@
 {
     "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
-    "tags": ["metsoc2025", "MetSoc2025", "Metabolomics2025"],
-    "accounts": [],
+    "tags": [],
+    "accounts": [ "@oscu@akademienl.social", "@oscgroningen@mastodon.social", "@OSCMainz@fediscience.org", "@oscmaastricht@social.edu.nl" ],
     "theme": "dark",
     "hideSensitive": false,
     "hideBots": false,
