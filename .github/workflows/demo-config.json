@@ -1,11 +1,15 @@
 {
     "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
-    "tags": [],
+    "tags": [ "inosc" ],
     "accounts": [ "oscu@akademienl.social", "oscgroningen@mastodon.social", "OSCMainz@fediscience.org", "oscmaastricht@social.edu.nl",
       "OpenSciTwente@akademienl.social", "OpenSciNigeria@mastodon.social", "opensciencekiel@fediscience.org"
      ],
     "theme": "dark",
     "hideSensitive": false,
     "hideBots": false,
-    "hideReplies": false
+    "hideReplies": false,
+    "limit": 20,
+    "interval": 30,
+    "title": "INOSC - Fediwall",
+    "theme": "light"
 }
