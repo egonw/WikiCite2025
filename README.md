@@ -1,4 +1,4 @@
-# MetSoc2025 Fediwall
+# WikiCite2025 Fediwall
 
 This is a fork for the MetSoc2025. Below is the original README:
 
