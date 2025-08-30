@@ -1,5 +1,5 @@
 {
-    "servers": [wikis.world", "mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
+    "servers": ["wikis.world", "mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
     "tags": [ "WikiCite2025" ],
     "accounts": [],
     "hideSensitive": true,
